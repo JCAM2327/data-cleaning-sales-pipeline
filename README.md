@@ -42,7 +42,7 @@ generar_informe_pdf(df, stats)
 ```
 Esto generará el archivo limpio, los gráficos y el informe PDF en la misma carpeta.
 
-Puedes ver un [ejemplo del informe PDF generado aquí](./informe_analisis.pdf).
+Puedes ver un [ejemplo del informe PDF generado aquí](informe_analisis.pdf).
 
 ## Motivación
 
