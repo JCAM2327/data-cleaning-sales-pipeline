@@ -102,7 +102,7 @@ Este proyecto está bajo la licencia MIT. Puedes usarlo, modificarlo y compartir
 ---
 
 Autor: José Mondragón  
-Contacto: [www.linkedin.com/in/jose-mondragon-pylq](https://linkedin.com/in/jose-mondragon-pylq)
+Contacto: [linkedin.com/in/jose-mondragon-pylq](www.linkedin.com/in/josé-mondragón-pylq)
 
 ---
 
